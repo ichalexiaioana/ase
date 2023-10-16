@@ -1,9 +1,0 @@
-﻿  source.cpp
-C:\alexia\ASE\zuchinni\tema2\source.cpp(17,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\alexia\ASE\zuchinni\tema2\source.cpp(66,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\alexia\ASE\zuchinni\tema2\source.cpp(135,22): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\alexia\ASE\zuchinni\tema2\source.cpp(135,29): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\alexia\ASE\zuchinni\tema2\source.cpp(135,36): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\alexia\ASE\zuchinni\tema2\source.cpp(132,11): warning C4101: 'ps': unreferenced local variable
-C:\alexia\ASE\zuchinni\tema2\source.cpp(117): warning C4715: 'Swimmer::getPrefferedStyle': not all control paths return a value
-  tema2.vcxproj -> C:\alexia\ASE\zuchinni\tema2\x64\Debug\tema2.exe
